@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/devmams/paraswap-demo/issues"
   },
-  "homepage": "https://github.com/devmams/paraswap-demo#readme"
+  "homepage": "https://github.com/devmams/paraswap-demo#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "axios": "^0.24.0",
+    "web3": "^1.5.1"
+  }
 }
