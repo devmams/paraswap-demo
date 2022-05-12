@@ -1,5 +1,5 @@
 # paraswap-demo
-This project show how to get best rate through Paraswap API and how to call PARASWAP contract on-chain.
+This project show how to interact with the Paraswap contract onchain using data from paraswap api.
 
 Follow the main steps belows :<br/>
   - run "npm install" to install dotenv, axios and web3 dependencies.<br/>
