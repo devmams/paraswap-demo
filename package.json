@@ -1,7 +1,7 @@
 {
   "name": "paraswap-demo",
   "version": "1.0.0",
-  "description": "This project show how to get best rate through Paraswap API and and how to call AUGUSTUS contract on-chain",
+  "description": "This project show how to interact with the Paraswap contract onchain using data from paraswap api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
